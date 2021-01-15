@@ -1,0 +1,6 @@
+framework module Pods_APIandCodable {
+  umbrella header "Pods-APIandCodable-umbrella.h"
+
+  export *
+  module * { export * }
+}
